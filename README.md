@@ -1,3 +1,3 @@
 # menu-demo
 
-Project for react self teaching, adapted from: https://github.com/MitchGabriel/react-restaurant-menu
+Project for react self teaching, adapted from: https://github.com/john-smilga/react-projects
