@@ -90,6 +90,14 @@ const menu = [
         "desc": "A choco pie is a snack cake consisting of two small round layers of cake with marshmallow filling and a chocolate covering. The term originated in America but is now also used widely in South Korea, Japan, and its exports, and many other countries as either a brand name or a generic term.",
         "price": 0
     }
+    {
+        "category": "Dessert",
+        "id": 26,
+        "title": "Cindy's Madeline",
+        "img": "https://sugarspunrun.com/wp-content/uploads/2020/08/Madeleines-Recipe-1-of-1-500x500.jpg",
+        "desc": "Cindy's Madeline is made by Cindy of course. And it looks really good.",
+        "price": 0
+    }
 ];
 
 export default menu;
