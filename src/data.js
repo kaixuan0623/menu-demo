@@ -89,7 +89,7 @@ const menu = [
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Chocolate_Pie.jpg",
         "desc": "A choco pie is a snack cake consisting of two small round layers of cake with marshmallow filling and a chocolate covering. The term originated in America but is now also used widely in South Korea, Japan, and its exports, and many other countries as either a brand name or a generic term.",
         "price": 0
-    }
+    },
     {
         "category": "Dessert",
         "id": 26,
